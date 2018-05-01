@@ -1,0 +1,23 @@
+body{
+    
+}
+/*#874605*/
+table{
+	background: linear-gradient(
+		rgba(206, 26, 26,0.6),
+		rgba(206, 92, 25,0.6),
+		rgba(224, 220, 13,0.6),
+		rgba(104, 224, 13,0.6),
+		rgba(13, 224, 206,0.6),
+		rgba(13, 34, 224,0.6),
+		rgba(76, 13, 224,0.6)
+		);
+    border-collapse: collapse;
+    border-spacing:20px;
+}
+/*#f48c42*/
+td{
+	text-align: center;
+    padding: 25px;
+    border: 2px ridge #bab6b6;
+}
